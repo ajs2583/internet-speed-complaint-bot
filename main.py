@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 # ─── Config & Constants ────────────────────────────────────────────────────────
 load_dotenv()  # Load environment variables from .env file
 
-UNIS_TAG = "NAU"
+UNIS_TAG = "..."
 SPEED_TEST_URL = "https://www.speedtest.net/"
 X_URL = "https://x.com/home"
 
